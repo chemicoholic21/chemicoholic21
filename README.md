@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Taniya</h1>
 <h3 align="center">A passionate frontend developer in Bangalore</h3>
 
-<img align="right" alt="octocat" width="400" src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif">
+<img align="right" alt="octocat" width="400" src="https://i.gifer.com/XOsX.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chemicoholic21&label=Profile%20views&color=0e75b6&style=flat" alt="chemicoholic21" /> </p>
 
