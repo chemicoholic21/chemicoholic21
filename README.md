@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Taniya</h1>
 <h3 align="center">A passionate frontend developer in Bangalore</h3>
 
-<img align="right" alt="creature" width="400" src="https://media1.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif?cid=ecf05e471l2veo6enqufk5ksu2ca3y14hs8kq0536zpyhg1g&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<img align="right" alt="creature" width="400" src="https://giphy.com/stickers/codecamp-n-code-codecamp-codecampn-igzZy3FvMTH0lKAkFk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chemicoholic21&label=Profile%20views&color=0e75b6&style=flat" alt="chemicoholic21" /> </p>
 
