@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **Frontend development**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **taniyasouza@gmail.com**
 
 - ⚡ Fun fact **I am weird**
