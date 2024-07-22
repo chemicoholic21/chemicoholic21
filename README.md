@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Taniya</h1>
 <h3 align="center">A passionate frontend developer in Bangalore</h3>
 
-<img align="right" alt="creature" width="400" src="https://giphy.com/stickers/codecamp-n-code-codecamp-codecampn-igzZy3FvMTH0lKAkFk">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chemicoholic21&label=Profile%20views&color=0e75b6&style=flat" alt="chemicoholic21" /> </p>
 
@@ -21,7 +21,12 @@
 <a href="https://instagram.com/timetodosomesketchyshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@timetodosomesketchyshit" height="30" width="40" /></a>
 </p>
 
+###
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+ ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chemicoholic21&show_icons=true&locale=en" alt="chemicoholic21" /></p>
 
