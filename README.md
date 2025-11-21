@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Taniya</h1>
-<h3 align="center">A passionate frontend developer in Bangalore</h3>
+<h3 align="center">A experimentalist in Bangalore</h3>
 
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tania01010101" target="blank"><img src="https://img.shields.io/twitter/follow/tania01010101?logo=twitter&style=for-the-badge" alt="tania01010101" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend development**
+- 🔭 I’m currently working on **Development**
 
 - 📫 How to reach me **taniyasouza@gmail.com**
 
