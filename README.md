@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=B0B0C0&background=00000000&center=true&vCenter=true&width=500&lines=Taniya.;The+Experimentalist.;Bangalore's+Chaos+Encoded." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=B0B0C0&background=00000000&center=true&vCenter=true&width=500&lines=Taniya.;The+Experimentalist.;BBangalore's+Chaos+Encoded." alt="Typing SVG" />
 
 <p align="center">
     <a href="https://twitter.com/tania01010101" target="_blank">
