@@ -18,7 +18,7 @@
 
 <br />
 
-<h3 align="center">I exist at the intersection of "Why is this error happening?" and "Oh wait, I fixed it."</h3>
+<h3 align="center">I am not just an engineer. I am a builder who can bridge the gap between Figma and Production code."</h3>
 
 <p align="center"> 
 I don't just write code; I try to make computers understand context. Currently obsessed with AI agents, Python pipelines, and breaking things to see how they work.
