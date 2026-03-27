@@ -1,6 +1,6 @@
 # Hi, I'm chemicoholic21! 👋
 
-I'm having a great day
+hehhehe mehhhh
 
 ---
 
