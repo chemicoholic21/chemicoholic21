@@ -1,6 +1,6 @@
 # Hi, I'm chemicoholic21! 👋
 
-don't judge my profile
+I'm having a great day
 
 ---
 
