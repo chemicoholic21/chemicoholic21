@@ -1,6 +1,6 @@
 # Hi, I'm chemicoholic21! 👋
 
-jphb,u
+don't judge my profile
 
 ---
 
