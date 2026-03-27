@@ -4,6 +4,9 @@
 
 ---
 
+### 🔭 I’m currently working on
+- 🔭 I’m currently working on Doing the dishes
+
 ### 🤝 Connect with me:
 
 <p align="left">
