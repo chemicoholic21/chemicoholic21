@@ -43,17 +43,6 @@ I enjoy:
 - React, Next.js  
 - UI/UX design (Figma, wireframing, prototyping)
 
----
-
-## 🧩 What I’ve Been Building
-
-### 🔹 Kerhouse (Current Focus)
-A developer-centric platform focused on:
-- GitHub data insights  
-- Leaderboards & developer analytics  
-- Repo exploration & reporting  
-
-Built with a strong focus on **real-time data, usability, and clean UX**.
 
 ---
 
