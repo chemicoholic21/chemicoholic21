@@ -1,91 +1,61 @@
-# 👋 Hey, I’m Taniya Souza
+# taniya souza
 
-🚀 Software Engineer | AI Enthusiast | Hackathon Builder  
-💡 I like turning ideas into real, usable products — fast.
-
----
-
-## 🧠 About Me
-
-I’m a developer with a strong interest in **AI, cloud systems, and scalable backend architecture**.  
-I’ve spent the last couple of years building across different domains — from **machine learning** to **full-stack apps** to **cloud-deployed systems**.
-
-I enjoy:
-- Breaking down complex problems into simple systems  
-- Shipping fast and iterating based on real feedback  
-- Working on projects that actually *do something useful*
+i build things. mostly fast. sometimes well.
 
 ---
 
-## 🛠️ Tech Stack
+## what i do
 
-**Languages**
-- Python, JavaScript, TypeScript, Java
+- backend systems  
+- ai integrations  
+- shipping ideas before they feel “ready”  
 
-**Backend & Systems**
-- Node.js, NestJS, Spring Boot  
-- REST APIs, microservices architecture  
-
-**Data & Infra**
-- PostgreSQL, Redis, Elasticsearch  
-- Kafka (learning & exploring)  
-
-**Cloud & DevOps**
-- AWS (EC2, S3, Lambda)  
-- Docker, CI/CD pipelines  
-
-**AI / ML**
-- Computer Vision (OpenCV, Mediapipe)  
-- NLP basics  
-- Model integration into real-world apps  
-
-**Frontend**
-- React, Next.js  
-- UI/UX design (Figma, wireframing, prototyping)
-
+i like working on stuff that actually gets used, not just demo-ed once and forgotten.
 
 ---
 
-### 🔹 AI + Computer Vision Projects
-- Body fat analysis using pose detection (Mediapipe + OpenCV)  
-- Real-time feedback systems with voice guidance  
-- PDF report generation pipelines  
+## things i’ve built
+
+- ai fitness + body analysis (pose detection, real-time feedback)  
+- algorithmic trading system (rsi, bollinger bands, live signals)  
+- a bunch of backend services + cloud deployments  
 
 ---
 
-### 🔹 Algorithmic Trading System
-- Uses technical indicators (RSI, Bollinger Bands)  
-- Real-time signal generation  
-- Cloud-integrated for scalability  
+## stack (no fluff)
+
+python · typescript · java  
+node · nest · spring  
+aws · docker  
+postgres · redis  
 
 ---
 
-## 🏆 Achievements
+## other things
 
-- 🥉 3rd place – National level hackathon (Team: Noob Buggies)  
-- 🏁 Multiple hackathon wins across domains  
-- 🎯 Organizer – Colossus Hackathon (160+ participants)  
-- 💼 Ex GDSC Design Lead  
-
----
-
-## 🌱 Currently Exploring
-
-- Distributed systems & system design  
-- Event-driven architectures  
-- Scaling backend systems  
-- AI-powered developer tools  
+- 3rd place @ national hackathon (noob buggies)  
+- ex gdsc design lead  
+- organized a 160+ people hackathon  
 
 ---
 
-## 📫 Let’s Connect
+## right now
 
-- 💼 LinkedIn: https://www.linkedin.com/in/taniya-souza-284167203/  
-- 🐦 Twitter: https://x.com/Tania01010101  
-- 💻 GitHub: https://github.com/chemicoholic21  
+getting better at:
+- system design  
+- scaling backend systems  
+- not writing messy code (work in progress)
 
 ---
 
-## ⚡ Fun Fact
+## links
 
-I don’t just like building things — I like **figuring out why they break** and making them better.
+github → https://github.com/chemicoholic21  
+linkedin → https://www.linkedin.com/in/taniya-souza-284167203/  
+twitter → https://x.com/Tania01010101  
+
+---
+
+## note
+
+still figuring things out. just faster now.
