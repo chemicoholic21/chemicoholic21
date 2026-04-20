@@ -1,61 +1,39 @@
-# taniya souza
+<!-- taniya-souza / README.md -->
+```js
+const me = { role: "AI product engineer", based: "Bengaluru" }
+```
 
-i build things. mostly fast. sometimes well.
+# Taniya Souza
 
----
-
-## what i do
-
-- backend systems  
-- ai integrations  
-- shipping ideas before they feel “ready”  
-
-i like working on stuff that actually gets used, not just demo-ed once and forgotten.
+I build things that sit at the intersection of AI and product — agents that actually ship, pipelines that handle real data, and interfaces people use without thinking about them. Currently exploring what it means for developer signals to actually mean something.
 
 ---
 
-## things i’ve built
+### things i've shipped
 
-- ai fitness + body analysis (pose detection, real-time feedback)  
-- algorithmic trading system (rsi, bollinger bands, live signals)  
-- a bunch of backend services + cloud deployments  
+`conversational AI agents` `embedding pipelines` `voice AI (ElevenLabs)` `resume tagging + search (Qdrant)` `n8n → Python migration (97% faster)` `Next.js + Supabase full-stack apps`
 
----
-
-## stack (no fluff)
-
-python · typescript · java  
-node · nest · spring  
-aws · docker  
-postgres · redis  
+**stack:** `React` `TypeScript` `Python` `Tailwind CSS` `AWS` `Gemini LLM` `MongoDB` `REST APIs` `CI/CD`
 
 ---
 
-## other things
+### on the competitive side
 
-- 3rd place @ national hackathon (noob buggies)  
-- ex gdsc design lead  
-- organized a 160+ people hackathon  
+three national-level hackathon podiums in 2024 — because apparently I do this under pressure too.
 
----
-
-## right now
-
-getting better at:
-- system design  
-- scaling backend systems  
-- not writing messy code (work in progress)
+🥇 **CodeSprint 2.0** — Winner · Nitte Meenakshi Institute of Technology  
+🥉 **amBITion 24hr National Hackathon** — 2nd runners-up · Bangalore Institute of Technology  
+🥉 **National Social Hackathon 2024** — 2nd runners-up · CMR Institute of Technology  
 
 ---
 
-## links
+### beliefs
 
-github → https://github.com/chemicoholic21  
-linkedin → https://www.linkedin.com/in/taniya-souza-284167203/  
-twitter → https://x.com/Tania01010101  
+> Good engineering is mostly about what you choose *not* to build.  
+> Real user feedback > any design review.  
+> Simple systems that work beat clever ones that don't.  
+> The best AI products are the ones users forget are AI.
 
 ---
 
-## note
-
-still figuring things out. just faster now.
+`taniyasouza@gmail.com` · [linkedin](https://linkedin.com/in/taniya-souza-284167203) · [medium](https://medium.com/@taniyasouza) · [github](https://github.com/chemicoholic21)
