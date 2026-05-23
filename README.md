@@ -20,13 +20,13 @@ Currently exploring how developer signals, contribution graphs, and engineering 
 
 ## Competitive Highlights
 
-Three national-level hackathon podium finishes in 2024.
+
+
+🥇 **HackNight** Winner 2026 *(Solo)*  
+*AWS × Elastic Bengaluru*
 
 🥇 **CodeSprint 2.0**  Winner  
 *Nitte Meenakshi Institute of Technology*
-
-🥇 **HackNight** Winner *(Solo)*  
-*AWS × Elastic Bengaluru*
 
 🥉 **amBITion 24hr National Hackathon** 2nd Runners-up  
 *Bangalore Institute of Technology*
