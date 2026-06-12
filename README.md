@@ -2,7 +2,7 @@
 
 # Taniya Souza
 
-I build at the intersection of AI and product — shipping agents that work in production, pipelines that process real-world data, and interfaces people use without thinking twice about them.
+I build at the intersection of AI and product, shipping agents that work in production, pipelines that process real-world data, and interfaces people use without thinking twice about them.
 
 Currently exploring how developer signals, contribution graphs, and engineering metadata can actually become meaningful intelligence.
 
