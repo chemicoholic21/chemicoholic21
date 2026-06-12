@@ -25,6 +25,9 @@ Currently exploring how developer signals, contribution graphs, and engineering 
 🥇 **HackNight** Winner 2026 *(Solo)*  
 *AWS × Elastic Bengaluru*
 
+🥇 **Blitz** Winner 2026 *(Solo)*  
+*Sarvam AI × Monad Bengaluru*
+
 🥇 **CodeSprint 2.0**  Winner  
 *Nitte Meenakshi Institute of Technology*
 
